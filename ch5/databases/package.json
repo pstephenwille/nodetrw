@@ -1,0 +1,11 @@
+{
+  "name": "book-tools",
+  "version": "0.1.0",
+  "description": "tools for creating an e-book database",
+  "author": "swille",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "file": "^0.2.2",
+    "request": "^2.51.0"
+  }
+}

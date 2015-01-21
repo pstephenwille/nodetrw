@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="438e6fe8-69b6-461b-bc0d-5e967b2d95ab" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/Release/obj.target/zmq/binding.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/boom/images/boom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/images/hawk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/images/hoek.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/windows/lib/x64/libzmq-v100-mt-3_2_2.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/windows/lib/x86/libzmq-v100-mt-3_2_2.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/rdf-files.tar.bz2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/Release/zmq.node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/Release/obj.target/zmq.node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/.dir-locals.el" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/node_modules/nan/.dntrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/test/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tunnel-agent/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/file/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/string_decoder/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/boom/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/cryptiles/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/sntp/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/stringstream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/CSSwhat/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/dom-serializer/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/async/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/boom/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/cryptiles/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/sntp/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/stringstream/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/01-basic.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Stream/01-basic.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/01-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Feeds/01-rss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/01-simple.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Stream/02-RSS.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Feeds/02-atom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/02-single_tag_1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/02-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/02-template.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Stream/03-Atom.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/03-feed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/03-lowercase_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Feeds/03-rdf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/03-single_tag_2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Stream/04-RDF.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/04-cdata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/04-unescaped_in_script.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Stream/05-Attributes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/05-cdata-special.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/05-tags_in_comment.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/06-comment_in_script.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/06-leading-lt.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/07-self-closing.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/07-unescaped_in_style.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/08-extra_spaces_in_tag.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/08-implicit-close-tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/09-attributes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/09-unquoted_attrib.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/10-crazy-attrib.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/10-singular_attribute.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/11-script_in_script.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/11-text_outside_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/12-long-comment-end.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/12-text_only.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/13-comment_in_text.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/13-long-cdata-end.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/14-comment_in_text_in_script.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/14-implicit-open-tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/15-lt-whitespace.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/15-non-verbose.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/16-double_attribs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/16-normalize_whitespace.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/17-numeric_entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/17-xml_namespace.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/18-enforce_empty_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/18-legacy_entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/19-ignore_empty_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/19-named_entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/20-template_script_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/20-xml_entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/21-conditional_comments.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/21-entity_in_attribute.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/22-double_brackets.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/22-lowercase_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/23-dom-lvl1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/23-legacy_entity_fail.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/24-special_special.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/24-with-start-indices.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/25-empty_tag_name.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/26-not-quite-closed.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/27-entities_in_attributes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/28-cdata_in_html.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/29-comment_edge-cases.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/30-cdata_edge-cases.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Events/31-comment_false-ending.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Documents/Atom_Example.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Documents/Attributes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Documents/Basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/node_modules/nan/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/lib/CollectingHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/lib/FeedHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/node_modules/punycode/LICENSE-MIT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/lodash/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/stringstream/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/node_modules/nan/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/CSSwhat/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/node_modules/domelementtype/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/nwmatcher/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/dom-serializer/node_modules/domelementtype/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domelementtype/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/file/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/aws-sign2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/string_decoder/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/forever-agent/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/async/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/boom/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/cryptiles/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/sntp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/json-stringify-safe/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/oauth-sign/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tunnel-agent/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/License" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/License" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/License" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/boom/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/cryptiles/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/sntp/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/lib/Parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/lib/ProxyHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Documents/RDF_Example.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/node_modules/bindings/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/node_modules/nan/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/isarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/lodash/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/file/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/examples/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/aws-sign2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/isarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/string_decoder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/caseless/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/forever-agent/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/async/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/boom/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/cryptiles/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/sntp/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/assert-plus/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/json-stringify-safe/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/benchmark/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/oauth-sign/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/stringstream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/node_modules/punycode/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tunnel-agent/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/README.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/Documents/RSS_Example.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/SOURCES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/lib/Stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/lib/Tokenizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/tools/docs/W3C_Selectors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/lib/WritableStream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/test/api.attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/test/api.css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/test/api.manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/test/api.traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/test/api.utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/node_modules/nan/appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/assert-plus/assert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/async/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/lib/api/attributes.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/lib/api/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/lib/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/lib/basefunctions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/test/basic-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/benchmark/bench.gnu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/tools/bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/benchmark/bench.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/benchmark/benchmark-native.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/benchmark/benchmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/binding.Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/binding.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/binding.gyp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/Release/.deps/Release/obj.target/zmq/binding.o.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/node_modules/bindings/bindings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/bl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/lib/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/test/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/browser_functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/isarray/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/isarray/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/lib/cheerio.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/lib/cheerio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/test/cheerio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/lib/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/test/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/lib/combined_stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/test/compare_v1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/lib/compile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/isarray/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/isarray/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/async/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/config.gypi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/lib/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/lib/cookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/lib/copy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/coverage.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/lib/crypto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/test/crypto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/lib/api/css.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/lib/api/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/ctf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/man/man3ctype/ctio.3ctype" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/ctio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/ctype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/lib/custom.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/dbcli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/dealer_router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/lib/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/lib/decode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/lib/decode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/maps/decode.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/maps/decode.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/lib/decode_codepoint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/lib/decode_codepoint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/lib/delayed_stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/disabled.appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/lib/element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/lib/encode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/lib/encode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/maps/entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/maps/entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/lib/escape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/test/escaper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/stringstream/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/exports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/file/lib/file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/file/tests/file_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/test/fixture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/test/fixture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/test/fixtures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/float.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/float.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/float.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/float.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/lib/form_data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/devices/forwarder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/sizzle/data/fries.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/gc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/lib/general.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/generate-pubsuffix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/tools/helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/lib/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/test/tests/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/lib/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/test/tests/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/lib/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/docs/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/http_signing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/node_modules/nan/include_dirs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/lib/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/lib/api/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/qwery/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/sizzle/data/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/index.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/CSSwhat/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/node_modules/domelementtype/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/nwmatcher/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/qwery/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/dom-serializer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/dom-serializer/node_modules/domelementtype/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domelementtype/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/isarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/aws-sign2/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/isarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/string_decoder/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/caseless/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/forever-agent/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/boom/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/boom/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/boom/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/cryptiles/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/cryptiles/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/cryptiles/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/sntp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/sntp/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/sntp/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/oauth-sign/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tunnel-agent/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/docs/index.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/int.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsl.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsstyle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch3/ldj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/lib/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/test/tests/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/lib/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/test/tests/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/maps/legacy.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/maps/legacy.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/Release/linker.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/perf/local_lat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/perf/local_thr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/lodash/dist/lodash.compat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/lodash/dist/lodash.compat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/lodash/lodash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/lodash/dist/lodash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/lodash/dist/lodash.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/lodash/dist/lodash.underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/lodash/dist/lodash.underscore.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/lib/api/manipulation.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/lib/api/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/lib/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/lib/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/lib/memstore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/docs/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/test/message.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/lib/mime.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/node_modules/nan/nan.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch3/net-watcher-client-ldj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch3/net-watcher-client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch3/net-watcher-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch3/net-watcher-server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch3/net-watcher-unix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch3/net-watcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/lib/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/lib/node.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeTRW.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/lib/nth-check.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/nth-check.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/sntp/examples/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/CSSwhat/tests/out.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/node_modules/bindings/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/node_modules/nan/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/CSSwhat/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/node_modules/domelementtype/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/dom-serializer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domelementtype/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/lodash/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/file/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/aws-sign2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/caseless/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/forever-agent/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/async/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/boom/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/cryptiles/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/sntp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/json-stringify-safe/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/oauth-sign/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/stringstream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tunnel-agent/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/lib/parse.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/test/pg132.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/test/pg132.rdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/scripts/prepublish" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/workers/producer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/lib/pseudos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/psinfo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/pub_sub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/public-suffix.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/lib/pubsuffix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/node_modules/punycode/punycode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/push_pull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/lib/querying.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/lib/querying.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/devices/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/lib/rdf-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch2/read-simple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/reader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/tst/ber/reader.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/test/readme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/CSSwhat/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/node_modules/domelementtype/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/dom-serializer/node_modules/domelementtype/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domelementtype/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/release.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/perf/remote_lat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/perf/remote_thr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/rep_req.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/req_rep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/router_dealer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/rpc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/test/sauce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/sizzle/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/lib/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/test/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/lib/signer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/tools/slickspeed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/socket.events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/socket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/socket.messages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/socket.monitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/socket.pub-sub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/socket.push-pull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/socket.req-rep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/socket.router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/socket.unbind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/socket.zap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/lib/sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/lib/static.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/lib/static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/lib/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/devices/streamer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/json-stringify-safe/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/stringstream/stringstream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/struct.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/docs/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch2/target.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch3/target.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/docs/template.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-http-upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream-auto-pause.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream-pause.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-handle-source-errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/test/test-helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-max-data-size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-pipe-resumes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-proxy-readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/test/test-rdf-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/nwmatcher/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/test/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/CSSwhat/tests/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/dom-serializer/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/caseless/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/json-stringify-safe/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/oauth-sign/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/tough-cookie/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/test/sizzle/data/testinit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/node_modules/sntp/examples/time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/lib/traversal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/lib/traversal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/lib/api/traversing.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/lib/api/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/int/tst.64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/uint/tst.64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.basicr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.basicw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.char.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.endian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.fail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.float.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.int.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.oldwrite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.psinfo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.readSize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/float/tst.rfloat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/int/tst.rint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/uint/tst.roundtrip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/uint/tst.ruint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.struct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.structw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.typedef.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/int/tst.wbounds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/float/tst.wfloat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/int/tst.wint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.writeStruct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/uint/tst.wuint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/typedef.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/test/uri.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/example/usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/coverage/lcov-report/cheerio/lib/utils.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/hawk/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/qs/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/uuid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/.bin/uuid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/node-uuid/bin/uuid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/lib/verify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch2/watcher-argv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch2/watcher-spawn-parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch2/watcher-spawn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch2/watcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/woot.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/examples/workers/worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/bl/node_modules/readable-stream/writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch2/write-simple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/writer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/request/node_modules/http-signature/node_modules/asn1/tst/ber/writer.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/test/xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/entities/maps/xml.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/databases/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/maps/xml.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/test/zap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/zmq-filer-rep-cluster.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/zmq-filer-rep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/zmq-filer-req-loop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/zmq-filer-req.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/zmq-watcher-pub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/zmq-watcher-sub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/windows/include/zmq.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/Release/.deps/Release/zmq.node.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/Release/.deps/Release/obj.target/zmq.node.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/zmq.target.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/messaging/node_modules/zmq/windows/include/zmq_utils.h" />
+    </list>
+    <ignored path="nodeTRW.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored mask=".idea" />
+    <ignored mask=".png" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="nodeTRW" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="rdf-parser.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch5/databases/lib/rdf-parser.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="504">
+              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08135593" vertical-offset="0" max-vertical-offset="1770">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ch2/watcher.js" />
+        <option value="$PROJECT_DIR$/ch2/watcher-argv.js" />
+        <option value="$PROJECT_DIR$/ch2/watcher-spawn.js" />
+        <option value="$PROJECT_DIR$/ch2/watcher-spawn-parse.js" />
+        <option value="$PROJECT_DIR$/ch2/read-simple.js" />
+        <option value="$PROJECT_DIR$/ch2/target.txt" />
+        <option value="$PROJECT_DIR$/ch3/new-watcher.js" />
+        <option value="$PROJECT_DIR$/ch3/net-watcher-unix.js" />
+        <option value="$PROJECT_DIR$/ch3/net-watcher.js" />
+        <option value="$PROJECT_DIR$/ch3/net-watcher-client.js" />
+        <option value="$PROJECT_DIR$/ch3/net-watcher-server.js" />
+        <option value="$PROJECT_DIR$/ch3/net-watcher-json.js" />
+        <option value="$PROJECT_DIR$/ch3/net-watcher-client-ldj.js" />
+        <option value="$PROJECT_DIR$/ch3/ldj.js" />
+        <option value="$PROJECT_DIR$/ch4/messaging/zmq-watcher-pub.js" />
+        <option value="$PROJECT_DIR$/ch4/messaging/zmq-watcher-sub.js" />
+        <option value="$PROJECT_DIR$/ch4/messaging/woot.txt" />
+        <option value="$PROJECT_DIR$/ch4/messaging/zmq-filer-rep.js" />
+        <option value="$PROJECT_DIR$/ch4/messaging/zmq-filer-req.js" />
+        <option value="$PROJECT_DIR$/ch4/messaging/zmq-filer-rep-cluster.js" />
+        <option value="$PROJECT_DIR$/ch2/write-simple.js" />
+        <option value="$PROJECT_DIR$/databases/package.json" />
+        <option value="$PROJECT_DIR$/ch5/databases/dbcli.js" />
+        <option value="$PROJECT_DIR$/ch5/databases/lib/rdf-parser.js" />
+        <option value="$PROJECT_DIR$/ch5/databases/test/package.json" />
+        <option value="$PROJECT_DIR$/ch5/databases/test/pg132.rdf" />
+        <option value="$PROJECT_DIR$/ch5/databases/test/pg132.json" />
+        <option value="$PROJECT_DIR$/ch5/databases/test/test-rdf-parser.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1200" />
+    <option name="height" value="1896" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Scala: General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeTRW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeTRW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeTRW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeTRW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeTRW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="databases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeTRW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeTRW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="databases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="options.lastSelected" value="editing.templates" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="JavaScriptLanguageLevel" value="ES6" />
+    <property name="JavaScriptPreferStrict" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch4/messaging" />
+      <recent name="$PROJECT_DIR$/ch3" />
+      <recent name="$PROJECT_DIR$/ch2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1200" height="1896" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="true" weight="0.24956672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="ConsoleMavenPlugin" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928944" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="init" />
+    <MESSAGE value="ch5" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch5" />
+  </component>
+  <component name="VssConfiguration">
+    <option name="CLIENT_PATH" value="" />
+    <option name="SRCSAFEINI_PATH" value="" />
+    <option name="USER_NAME" value="" />
+    <option name="PWD" value="" />
+    <CheckoutOptions>
+      <option name="COMMENT" value="" />
+      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+      <option name="REPLACE_WRITABLE" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option name="COMMENT" value="" />
+      <option name="KEEP_CHECKED_OUT" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckinOptions>
+    <AddOptions>
+      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="REPLACE_LOCAL_COPY" value="2" />
+      <option name="RECURSIVE" value="false" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option name="REPLACE_WRITABLE" value="0" />
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="ANSWER_NEGATIVELY" value="false" />
+      <option name="ANSWER_POSITIVELY" value="false" />
+      <option name="RECURSIVE" value="false" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-spawn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="576">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-spawn-parse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="558">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/read-simple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="234">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/write-simple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="270">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3/net-watcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16060" max-vertical-offset="31770">
+          <caret line="925" column="3" selection-start-line="925" selection-start-column="3" selection-end-line="925" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/target.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="144">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="198">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-argv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-spawn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="576">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-spawn-parse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="576">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="198">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-argv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-spawn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="576">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-spawn-parse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="576">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="198">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-argv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="306">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-spawn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-argv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-spawn-parse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/read-simple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47570622" vertical-offset="16060" max-vertical-offset="31770">
+          <caret line="939" column="0" selection-start-line="939" selection-start-column="0" selection-end-line="939" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/net.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33294997" vertical-offset="15621" max-vertical-offset="24102">
+          <caret line="900" column="13" selection-start-line="900" selection-start-column="13" selection-end-line="900" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/watcher-spawn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3/net-watcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3/net-watcher-json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3/net-watcher-unix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3/net-watcher-client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3/net-watcher-client-ldj.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3/net-watcher-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="756">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3/ldj.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch4/messaging/zmq-filer-req-loop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="1336" max-vertical-offset="16884">
+          <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch4/messaging/zmq-filer-rep-cluster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1062">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch4/messaging/zmq-filer-req.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch4/messaging/zmq-filer-rep.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/write-simple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/target.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.020338982" vertical-offset="0" max-vertical-offset="1770">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeTRW.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch4/messaging/zmq-watcher-sub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch4/messaging/zmq-watcher-pub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch4/messaging/woot.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5/databases/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="306">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5/databases/dbcli.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5/databases/test/pg132.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="270">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5/databases/test/test-rdf-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5/databases/test/pg132.rdf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3564">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch4/messaging/node_modules/zmq/build/Release/linker.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5/databases/lib/rdf-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08135593" vertical-offset="0" max-vertical-offset="1770">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>angular-protractor-DefinitelyTyped</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>nodeTRW</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
