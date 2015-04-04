@@ -1,8 +1,10 @@
-.iml
+*.iml
+
 .idea
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries
-cache/
 
+# chp5/databases/cache - library of congress books list, in xml
+cache
 
+node_modules
+
+**/*.bz2
