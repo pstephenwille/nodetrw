@@ -2,6 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="438e6fe8-69b6-461b-bc0d-5e967b2d95ab" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/b4/static/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/b4/static/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/b4/lib/book-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-services/b4/lib/book-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/b4/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/b4/lib/bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-services/b4/lib/bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/cat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-services/countdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/create-db.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/dbcli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/delete-db.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/b4/lib/field-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-services/b4/lib/field-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/import-books.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/b4/static/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-services/b4/static/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networking/ldj-class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networking/ldj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/list-books-queued.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/list-books.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/make-views.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networking/net-timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networking/net-watcher-json-buffering-client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networking/net-watcher-json-client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networking/net-watcher-json-service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networking/net-watcher-json-test-service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networking/net-watcher-ldj-client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networking/net-watcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/b4/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/hello/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-services/b4/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-services/hello/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/test/pg132.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/test/pg132.rdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/lib/rdf-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/read-file-sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/read-pipe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/read-simple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/read-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/b4/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/hello/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-services/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-services/b4/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-services/hello/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networking/target.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/b4/test/test-api-bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-services/b4/test/test-api-bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/test/test-rdf-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/lib/views.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/watchables.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/watcher-argv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/watcher-many-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/watcher-many.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/watcher-spawn-parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/watcher-spawn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/watcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/write-parameters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file-system/write-simple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/messaging/zmq-filer-rep-cluster.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/messaging/zmq-filer-rep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/messaging/zmq-filer-req-loop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/messaging/zmq-filer-req.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/messaging/zmq-push-cluster.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/messaging/zmq-watcher-pub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/messaging/zmq-watcher-sub.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nodeTRW.iws" />
@@ -26,10 +94,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="rdf-parser.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="rdf-parser.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch5/databases/lib/rdf-parser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.22863741">
               <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
@@ -38,20 +106,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08314088">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -166,46 +229,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodeTRW" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodeTRW" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="databases" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodeTRW" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodeTRW" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="databases" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -232,6 +255,7 @@
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -453,8 +477,10 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -469,11 +495,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -496,7 +520,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="init" />
     <MESSAGE value="ch5" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch5" />
+    <MESSAGE value="downloaded sample code" />
+    <option name="LAST_COMMIT_MESSAGE" value="downloaded sample code" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -541,13 +566,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch2/watcher-spawn.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch2/watcher-spawn-parse.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -884,13 +902,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch5/databases/lib/rdf-parser.js">
+    <entry file="file://$PROJECT_DIR$/networking/net-watcher-ldj-client.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -899,6 +915,16 @@
         <state vertical-scroll-proportion="0.08314088">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5/databases/lib/rdf-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22863741">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
